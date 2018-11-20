@@ -1,0 +1,6 @@
+com\bank\restapi\dao\InterfaceDAO.class
+com\bank\restapi\repository\BanksRepository.class
+com\bank\restapi\controller\BanksController.class
+com\bank\restapi\BanksApplication.class
+com\bank\restapi\dao\BanksDAO.class
+com\bank\restapi\model\Banks.class
