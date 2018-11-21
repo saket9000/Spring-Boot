@@ -1,0 +1,5 @@
+https://github.com/snarayanank2/indian_banks
+
+
+for database
+Done it with mysql in this example by converting csv file to mysql
